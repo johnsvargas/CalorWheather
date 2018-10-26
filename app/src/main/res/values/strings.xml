@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalorWheather</string>
+    <string name="daily_button_text">Daily</string>
+    <string name="hourly_button_text">Hourly</string>
+    <string name="minutely_button_text">Minutely</string>
+
+    <string name="hourly_forecast">Hourly Forecast</string>
+
+    <string name="daily_forecast">Daily Forecast</string>
+
+    <string name="minutely_weather">Minutely Forecast</string>
+</resources>
